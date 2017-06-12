@@ -1,4 +1,4 @@
-**Goal:** Review and contribute further detail to San Luis Obispo's Downtown area. What we want for each business *when possible:*
+Goal: Review and contribute further detail to San Luis Obispo's Downtown area. What we want for each business *when possible:*
 
   1. A building footprint with address info (no business info). That way upon export there is a single footprint with is associated
   address info
@@ -9,7 +9,7 @@
 
 1. Create a closed way for the area where the physical bounds of the retail shop is known. Utilize outside resources to help validate where the shop boundaries are i.e. street view, local knowledge, mapillary. 
 2. This closed way, which now represents an individual shop, will include only the address information (conflate from address points if available). *Do not include the business name in this closed way.*
-3. Create a POI (if it doesn't already exist) including the name and type of shop (use the "amenity=" tag for this) as well as all address information. If the current POI does not include the address information, add it.
+3. Create a POI (if it doesn't already exist) including the name and type of shop ("amenity=" or "shop=") as well as all address information. If the current POI does not include the address information, add it.
 
 See issue 1 for example of scenario above:
 https://github.com/hpanno/SLOdowntownCleanUp/issues/1
