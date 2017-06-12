@@ -13,13 +13,13 @@ See issue 1 for example of scenario above:
 https://github.com/hpanno/SLOdowntownCleanUp/issues/1
 
 
-
 IF there is a single address point for multiple businesses:
-1. There will be a single closed way that includes all address information.
+1. There will be a single closed way that includes all address information, including a suit or unit (addr:unit=).
 2. This closed way will not include any specific business information.
 3. Create a POI to represent each business. Include all address and business information in each POI. 
 
-See issue 2 for example of scenario above:
-
-
 IF there is a two story building follow instructions above for a single address point for multiple businesses.
+
+
+See issue 2 for example of scenarios above:
+https://github.com/hpanno/SLOdowntownCleanUp/issues/2
