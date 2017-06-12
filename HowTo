@@ -1,0 +1,20 @@
+Review and contribute further detail to San Luis Obispo's Downtown area. 
+
+
+IF there is a single address point for a single business:
+1. Create closed ways for areas where the physical bounds of a retail shop are known by splitting existing building footprints. 
+Utilize outside resources to help validate where the shop boundaries are i.e. street view, local knowledge, mapillary. 
+2. This closed way, which now represents an individual shop, will include only the address information (to be conflated from address 
+points if available). Do not include the business name in this closed way.
+3. Create a POI (if it doesn't already exist) including the name and type of shop (use the "amenity=" tag for this) as well as all 
+address information. If the current POI does not include the address information, add it.
+
+
+
+
+IF there is a single address point for multiple businesses:
+1. There will be a single closed way that includes all address information.
+2. This closed way will not include any specific business information.
+3. Create a POI to represent each business. Include all address and business information in each POI. 
+
+IF there is a two story building follow instructions above for a single address point for multiple businesses.
