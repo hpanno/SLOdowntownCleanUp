@@ -1,4 +1,6 @@
-Review and contribute further detail to San Luis Obispo's Downtown area. 
+Goal: Review and contribute further detail to San Luis Obispo's Downtown area. What we want for each business when possible:
+  1. A building footprint with address info (no business info)
+  2. POI with address and business info
 
 
 IF there is a single address point for a single business:
@@ -13,6 +15,7 @@ See issue 1 for example of scenario above:
 https://github.com/hpanno/SLOdowntownCleanUp/issues/1
 
 
+
 IF there is a single address point for multiple businesses:
 1. There will be a single closed way that includes all address information, including a suit or unit (addr:unit=).
 2. This closed way will not include any specific business information.
@@ -20,6 +23,7 @@ IF there is a single address point for multiple businesses:
 
 IF there is a two story building follow instructions above for a single address point for multiple businesses.
 
-
 See issue 2 for example of scenarios above:
 https://github.com/hpanno/SLOdowntownCleanUp/issues/2
+
+
