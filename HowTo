@@ -9,8 +9,8 @@ points if available). Do not include the business name in this closed way.
 3. Create a POI (if it doesn't already exist) including the name and type of shop (use the "amenity=" tag for this) as well as all 
 address information. If the current POI does not include the address information, add it.
 
-See link below of example of the scenaroi above:
-https://user-images.githubusercontent.com/1495756/27052062-42bc106e-4f6d-11e7-81b0-412fbf2fe72c.png
+See issue 1 for example of scenario above:
+https://github.com/hpanno/SLOdowntownCleanUp/issues/1
 
 
 
@@ -18,5 +18,8 @@ IF there is a single address point for multiple businesses:
 1. There will be a single closed way that includes all address information.
 2. This closed way will not include any specific business information.
 3. Create a POI to represent each business. Include all address and business information in each POI. 
+
+See issue 2 for example of scenario above:
+
 
 IF there is a two story building follow instructions above for a single address point for multiple businesses.
