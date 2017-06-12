@@ -1,7 +1,8 @@
 **Goal:** Review and contribute further detail to San Luis Obispo's Downtown area. What we want for each business *when possible:*
 
-  1. A building footprint with address info (no business info)
-  2. POI with address and business info
+  1. A building footprint with address info (no business info). That way upon export there is a single footprint with is associated
+  address info
+  2. POI with address and business info. This POI allows for rendering of the shop name. 
 
 
 **IF there is a single address point for a single business:**
